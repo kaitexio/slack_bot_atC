@@ -1,0 +1,2 @@
+# slack_bot_atC
+・コンテスト予定を毎週木曜にslackにお知らせしてくれるbot
